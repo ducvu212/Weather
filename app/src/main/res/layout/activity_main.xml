@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:background="#ffffff"
+    tools:context="com.example.vuminhduc.weather.MainActivity">
+
+    <TextView
+
+        android:id="@+id/tv_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center"
+        android:textColor="#212121"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_location"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#212121"
+        android:textSize="20sp" />
+
+    <ImageView
+
+        android:id="@+id/img_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/tv_time"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/weather"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_image"
+        android:layout_marginLeft="20dp"
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:textColor="#212121"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/doAm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/weather"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#212121"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/sunrise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/doAm"
+        android:layout_marginLeft="20dp"
+        android:textColor="#212121"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/sunset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sunrise"
+        android:layout_marginLeft="20dp"
+        android:textColor="#212121"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/celMax"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sunset"
+        android:layout_marginLeft="20dp"
+        android:textColor="#212121"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/celMin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/celMax"
+        android:layout_marginLeft="20dp"
+        android:textColor="#212121"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

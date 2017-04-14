@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/vuminhduc/AndroidStudio_Project/Weather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=3645214d2e03514f416084ab3cbbfc83f160801d
+DX_VERSION=1.12
+JUMBO_MODE=true
+OPTIMIZE=true

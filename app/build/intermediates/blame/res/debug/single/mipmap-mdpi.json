@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/Weather/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/vuminhduc/AndroidStudio_Project/Weather/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/Weather/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/vuminhduc/AndroidStudio_Project/Weather/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

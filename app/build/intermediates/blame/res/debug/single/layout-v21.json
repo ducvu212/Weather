@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/vuminhduc/.android/build-cache/022840c8aeb331957574cd8997340a388f649b02/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/vuminhduc/.android/build-cache/022840c8aeb331957574cd8997340a388f649b02/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/vuminhduc/.android/build-cache/022840c8aeb331957574cd8997340a388f649b02/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/vuminhduc/AndroidStudio_Project/Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/vuminhduc/.android/build-cache/022840c8aeb331957574cd8997340a388f649b02/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Wed Mar 29 22:09:19 ICT 2017
+base.0=/home/vuminhduc/AndroidStudio_Project/Weather/app/build/intermediates/transforms/dexMerger/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/home/vuminhduc/AndroidStudio_Project/Weather/app/build/intermediates/transforms/dexMerger/debug/folders/1000/5/slice_5/classes.dex
